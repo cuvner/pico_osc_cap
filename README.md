@@ -1,6 +1,7 @@
 # 📡 OSC WebSocket Bridge + p5.js Visualiser
 
-![raspberry pi pico and cap sensor](smthng.jpg)
+![Raspberry pi pico and cap sensor](pico_osc_cap.jpg)
+Physical setup of the pi pico and adafruit cap sensor
 
 This project receives OSC messages (e.g. from a Raspberry Pi Pico) and broadcasts them to connected browsers via WebSockets. The browser uses p5.js to display or respond to incoming OSC data in real time.
 

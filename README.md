@@ -66,7 +66,7 @@ npm install express ws node-osc
 ```
 
 ### 3. Run the server
-
+While in the directory, run the server    
 ```bash
 node wsApp.js
 ```
